@@ -1,0 +1,26 @@
+{
+  "name": "@rhinoceroshead/how-to-npm",
+  "version": "1.0.0",
+  "description": "Learning the basics of usage and creation of modules through NPM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhinoceroshead/how-to-npm.git"
+  },
+  "keywords": [
+    "module",
+    "manager"
+  ],
+  "author": "Mateus Souza da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhinoceroshead/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/rhinoceroshead/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
