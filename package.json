@@ -1,6 +1,6 @@
 {
   "name": "@rhinoceroshead/how-to-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Learning the basics of usage and creation of modules through NPM.",
   "main": "index.js",
   "scripts": {
